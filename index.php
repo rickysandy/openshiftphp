@@ -1,6 +1,6 @@
 <html> 
 	<head> 
-	<title>Hellp PHP World plz die soon</title>
+	<title>Hello PHP World plz die soon</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"/>
 	</head>
 
